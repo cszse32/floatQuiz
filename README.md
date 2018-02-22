@@ -1,2 +1,1 @@
-# floatQuiz
-Coding test for Float
+Coding test for Float.
