@@ -1,0 +1,37 @@
+.App {
+  text-align: left;
+
+}
+
+.welcomePage {
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.welcomePage p {
+  text-align: left;
+  font-size: 15px;
+}
+.welcomePage h1, h2, h3 {
+  text-align: center;
+}
+.nameField {
+  width: 80%;
+  border: 2px solid #000;
+}
+.nextButton {
+  width: 60px;
+  height: 25px;
+  /*TODO: position this*/
+
+}
+/*TODO: Colour and style the link */
+.startLink a:link {
+  color: #FF0000;
+  text-decoration: none;
+}
+
+.startLink a:hover {
+  color: #00FF00;
+  text-decoration: none;
+}
